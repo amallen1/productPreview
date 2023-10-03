@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component solution
 
+![Design preview for the Job listings with filtering challenge](./design/desktop-preview.jpg)
+
 This is my solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ## Table of contents
@@ -31,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Live Site](https://incandescent-frangollo-85cdda.netlify.app/)
 
 ## My process
 
